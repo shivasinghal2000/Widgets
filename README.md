@@ -1,3 +1,12 @@
+# Introduction
+
+There are 5 components in this project.
+  1. Translator -> It translates the text entered by user in english to any language that user selects from dropdown menu.
+  2. Search     -> It works like a search engine where user can enter anything and can find the multiple links related to that thing and there is a button "Go" by clicking on which it will redirect user to the new webpage and then user can get detailed information. It works same like we search on Google.
+  3. Accoridan  -> It is same like FAQ's page. There are various questions and user can look for answers of those questions.
+  4. Dropdown   -> It shows a optimized dropdown created. If we click on page anywhere and dropdown is open then it will be closed and if user select any option from dropdown then dropdown will be closed.
+  5. Header     -> It is a header where user can traverse from one of the above mentioned component to any another component.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
